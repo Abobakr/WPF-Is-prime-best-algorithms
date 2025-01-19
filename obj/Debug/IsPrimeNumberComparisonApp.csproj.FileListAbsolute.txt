@@ -1,0 +1,14 @@
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\bin\Debug\IsPrimeNumberComparisonApp.exe.config
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\bin\Debug\IsPrimeNumberComparisonApp.exe
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\bin\Debug\IsPrimeNumberComparisonApp.pdb
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\obj\Debug\IsPrimeNumberComparisonApp.csproj.AssemblyReference.cache
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\obj\Debug\MainWindow.baml
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\obj\Debug\MainWindow.g.cs
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\obj\Debug\App.g.cs
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\obj\Debug\IsPrimeNumberComparisonApp_MarkupCompile.cache
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\obj\Debug\IsPrimeNumberComparisonApp.g.resources
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\obj\Debug\IsPrimeNumberComparisonApp.Properties.Resources.resources
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\obj\Debug\IsPrimeNumberComparisonApp.csproj.GenerateResource.cache
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\obj\Debug\IsPrimeNumberComparisonApp.csproj.CoreCompileInputs.cache
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\obj\Debug\IsPrimeNumberComparisonApp.exe
+C:\Users\ABUBA\OneDrive\Development\repos\IsPrimeNumberComparisonApp\obj\Debug\IsPrimeNumberComparisonApp.pdb

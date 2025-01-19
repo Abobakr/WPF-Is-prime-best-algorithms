@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPrimeNumberComparisonApp", "IsPrimeNumberComparisonApp.csproj", "{9AE9ED0C-1423-4BCA-8224-3418DCB0786C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE9ED0C-1423-4BCA-8224-3418DCB0786C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE9ED0C-1423-4BCA-8224-3418DCB0786C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE9ED0C-1423-4BCA-8224-3418DCB0786C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE9ED0C-1423-4BCA-8224-3418DCB0786C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C93292-1513-4493-9C04-B42B5BBC13F8}
+	EndGlobalSection
+EndGlobal

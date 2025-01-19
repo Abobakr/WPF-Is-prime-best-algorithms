@@ -1,0 +1,14 @@
+C:\Development\repos\IsPrimeNumberComparisonApp\bin\Release\IsPrimeNumberComparisonApp.exe.config
+C:\Development\repos\IsPrimeNumberComparisonApp\bin\Release\IsPrimeNumberComparisonApp.exe
+C:\Development\repos\IsPrimeNumberComparisonApp\bin\Release\IsPrimeNumberComparisonApp.pdb
+C:\Development\repos\IsPrimeNumberComparisonApp\obj\Release\IsPrimeNumberComparisonApp.csproj.AssemblyReference.cache
+C:\Development\repos\IsPrimeNumberComparisonApp\obj\Release\MainWindow.baml
+C:\Development\repos\IsPrimeNumberComparisonApp\obj\Release\MainWindow.g.cs
+C:\Development\repos\IsPrimeNumberComparisonApp\obj\Release\App.g.cs
+C:\Development\repos\IsPrimeNumberComparisonApp\obj\Release\IsPrimeNumberComparisonApp_MarkupCompile.cache
+C:\Development\repos\IsPrimeNumberComparisonApp\obj\Release\IsPrimeNumberComparisonApp.g.resources
+C:\Development\repos\IsPrimeNumberComparisonApp\obj\Release\IsPrimeNumberComparisonApp.Properties.Resources.resources
+C:\Development\repos\IsPrimeNumberComparisonApp\obj\Release\IsPrimeNumberComparisonApp.csproj.GenerateResource.cache
+C:\Development\repos\IsPrimeNumberComparisonApp\obj\Release\IsPrimeNumberComparisonApp.csproj.CoreCompileInputs.cache
+C:\Development\repos\IsPrimeNumberComparisonApp\obj\Release\IsPrimeNumberComparisonApp.exe
+C:\Development\repos\IsPrimeNumberComparisonApp\obj\Release\IsPrimeNumberComparisonApp.pdb
